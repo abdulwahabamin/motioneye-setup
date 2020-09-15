@@ -1,4 +1,5 @@
  #!/bin/bash
+ sudo apt-get update
  sudo apt-get install -y motion ffmpeg v4l-utils
  sudo apt-get install -y python-pip python-dev python-setuptools curl libssl-dev libcurl4-openssl-dev libjpeg-dev libz-dev
  sudo apt-get install -y python-pillow
